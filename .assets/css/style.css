@@ -5,15 +5,21 @@
 
 :root {
     --red: #50050f;
+    --w: white;
 }
 
 body {
-    background-color: #93a0a1;
+    background-color: #a8a190;
+}
+
+#Lizzie {
+    height: 120px;
+    width: 100px;
 }
 
 .header {
     background-color: var(--red);
-    color: white;
+    color: var(--w);
     padding: 24px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -37,15 +43,29 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 40px;
+    margin-top: 30px;
 }
+
+a {
+    text-decoration: none;
+    color: inherit;
+    cursor: text;
+  }
 
 .label {
     display: flex;
     flex-direction: row;
-    text-align: center;
-    border-bottom: 8px solid var(--red);
+    background-color: var(--red);
+    color: var(--w);
+    border: 8px solid var(--red);
     justify-content: center;
+
 }
+
+/* .column-container {
+    display: grid;
+    grid-template-columns: 300px 300px;
+} */
 
 .works {
     display: flex;
@@ -64,17 +84,24 @@ body {
     width: 622px;
 }
 
-.column-container {
-    column-count: 2;
-}
-
 .contact {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+}
+
+.contact ul {
+    list-style-type: none;
+}
+
+.contact ul li {
+    display: inline-block;
 }
 
 .footer {
     display: flex;
     margin-top: 60px;
     text-align: center;
+    justify-content: center;
 }
+
