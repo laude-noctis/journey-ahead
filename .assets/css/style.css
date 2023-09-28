@@ -75,6 +75,13 @@ a {
     align-items: center;
 }
 
+.about p {
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-right: 19rem;
+    margin-left: 19rem;
+}
 .column-container {
     display: grid;
     grid-template-columns: 300px 300px;
