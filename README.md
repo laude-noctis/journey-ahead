@@ -8,4 +8,5 @@ Semantic HTML was used and CSS styling was applied.
 
 ## Link
 
-Link: 
+Link: https://lizziebumpers.github.io/Journey-Ahead/
+
