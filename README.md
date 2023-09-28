@@ -10,4 +10,4 @@ Semantic HTML was used and CSS styling was applied.
 
 Link: https://lizziebumpers.github.io/Journey-Ahead/
 
-![photo of the webpage](./images/Web capture_28-9-2023_16138_lizziebumpers.github.io.jpeg)
+![photo of the webpage](./images/Screenshot%20(14).png)
