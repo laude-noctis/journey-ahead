@@ -8,6 +8,6 @@ Semantic HTML was used and CSS styling was applied.
 
 ## Link
 
-Link: https://lizziebumpers.github.io/Journey-Ahead/
+Link: https://laude-noctis.github.io/journey-ahead/
 
 ![photo of the webpage](./images/Screenshot%20(14).png)
